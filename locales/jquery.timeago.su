@@ -1,0 +1,18 @@
+// Sundanese (Basa Sunda) translation for jquery timeago
+jQuery.timeago.settings.strings = {
+  prefixAgo: null,
+  prefixFromNow: null,
+  suffixAgo: "nu kapungkur",
+  suffixFromNow: "ti ayeuna",
+  seconds: "kirang ti samenit",
+  minute: "kirang langkung samenit",
+  minutes: "%d menit",
+  hour: "kirang langkung sajam",
+  hours: "kirang langkung %d jam",
+  day: "sadinten",
+  days: "%d dinten",
+  month: "kirang langkung sabulan",
+  months: "%d bulan",
+  year: "kirang langkung sataun",
+  years: "%d taun"
+};
